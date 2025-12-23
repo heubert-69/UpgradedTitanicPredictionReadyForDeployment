@@ -16,8 +16,7 @@ This project predicts passenger survival on the Titanic using **Logistic Regress
 [[92 18]
 [16 53]]
 
-yaml
-Copy code
+
 
 ### LightGBM (Test Set)
 - Accuracy: 0.858
